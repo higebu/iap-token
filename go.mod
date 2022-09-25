@@ -1,6 +1,6 @@
 module github.com/higebu/iap-token
 
-go 1.18
+go 1.19
 
 require github.com/apstndb/adcplus v0.0.0-20210615091706-c0983920581f
 
